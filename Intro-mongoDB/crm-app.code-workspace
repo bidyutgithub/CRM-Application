@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../dsa_algorithms"
+		},
+		{
+			"path": "../../createProject"
+		}
+	],
+	"settings": {}
+}
