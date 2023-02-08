@@ -1,23 +1,6 @@
 {
   "dependencies": {
-    "mongoose": "^6.8.0"
-  },
-  "name": "crm-app",
-  "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bidyutgithub/CRM-Application.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bidyutgithub/CRM-Application/issues"
-  },
-  "homepage": "https://github.com/bidyutgithub/CRM-Application#readme",
-  "description": ""
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  }
 }
